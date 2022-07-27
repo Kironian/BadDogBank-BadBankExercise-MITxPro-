@@ -1,0 +1,29 @@
+.dataDisplay {
+    display:flex;
+    flex-direction:column;
+    margin-bottom: 2rem;
+    align-self: center;
+    background-color: rgb(255, 255, 255);
+}
+
+h1,h2,h3 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: .5rem;
+    margin-right: .5rem;
+    font-weight: bold;
+}
+h1 {
+    margin-top: .5rem;
+}
+
+.data-color {
+    background-color: rgb(255, 255, 255);
+}
+.card-body {
+    max-width: 18rem;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    background-color: rgb(255, 255, 255);
+}

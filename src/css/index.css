@@ -1,0 +1,23 @@
+body {
+  font-family: 'Bebas Neue', cursive;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.pages {
+  font-family: 'Bebas Neue', cursive;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-body {
+  max-width: 18rem;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  background-color: rgb(255, 255, 255);
+}
